@@ -14,6 +14,7 @@
 % Copyright: This is published under GJI manuscript entitled "Gravity and Magnetic Joint Inversion to 
                                    ... Resolve Basement and Salt Structures with Reversible-Jump Algorithm"
 % You are allowed to use, as long as you cite this work.
+https://doi.org/10.1093/gji/ggab251
 
 
 clc
